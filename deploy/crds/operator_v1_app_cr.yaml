@@ -1,0 +1,7 @@
+apiVersion: operator.paas.tkokok.top/v1
+kind: App
+metadata:
+  name: example-app
+spec:
+  # Add fields here
+  size: 3
